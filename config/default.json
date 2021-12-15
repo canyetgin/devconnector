@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://can:can123@social.4bg5o.mongodb.net/devconnector?retryWrites=true&w=majority"
+
+}
