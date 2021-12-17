@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://can:can123@social.4bg5o.mongodb.net/devconnector?retryWrites=true&w=majority"
   ,"jwtSecret": "can123osman123"
+  ,"githubClientId": "Iv1.156048c8ce849726"
+  ,"githubSecret": "c1f52032014b63533367a585b77981c52c8ec9fd"
 }
